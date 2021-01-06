@@ -1,0 +1,47 @@
+
+*{
+	margin: 0px;
+}
+
+.demo{
+	/*border:solid;*/
+	height: 625px;
+	background-color: #efcb41;
+}
+.demo1{
+	/*border:solid;*/
+	height:625px;
+	width: 50%;
+	float: right;
+	border-radius: 650px 0px 0px 600px;
+	background-color:#ff327d;
+	background-image: url(shubham.jpg);
+	background-size: cover;
+
+}
+h1{
+	margin-left: 30px;
+	font-size: 50px;
+	color: white;
+	 font-family: 'Roboto', sans-serif;
+}
+.text{
+	margin-left: 90px;
+	font-size:100px;
+	margin-top: 90px;
+	color: white;
+	 font-family: 'Roboto', sans-serif;
+
+}
+.text1{
+	font-size: 25px;
+	margin-left:90px;
+	 font-family: 'Roboto', sans-serif;
+}
+.text2{
+	font-size: 20px;
+	margin-left: 0px;
+	margin-top: 30px;
+	float: right;
+	 font-family: 'Roboto', sans-serif;
+}

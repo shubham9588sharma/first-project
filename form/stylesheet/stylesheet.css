@@ -1,0 +1,70 @@
+
+body{
+	font-family: Helvetica;
+	background-color: #f7d85c;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+td{
+	text-align: center;
+}
+
+#td{
+		width: 200px;
+		height: 50px;
+}
+
+input{
+	width: 95%;
+	height: 20px;
+	border-right: none;
+	border-left:none;
+	border-top:none;
+	border-bottom: solid yellow;
+	border-radius: 10px;
+}
+
+#demo{
+	width: 700px;
+}
+
+button{
+
+	width: 20%;
+	height: 50px;
+	background-color: green;
+	color: white;
+	font-family: cursive;
+	font-size: 20px;
+	border: none;
+}
+
+div{
+	border: solid;
+	width: 20;
+	border-top: 20px solid red;
+	border-bottom: 20px solid #593a12;
+	border-right:  20px solid transparent;
+	border-left:  20px solid transparent;
+	font-weight: bold;
+	font-family: cursive;
+	font-size: 25px;
+	color: white;
+}
+
+#div2{
+	border: solid;
+	width: 120px;
+	font-weight: bold;
+	border-radius: 20px;
+	border-top: 10px solid black;
+	border-bottom: 10px solid white;
+	border-right:  20px solid white;
+	border-left:  20px solid black;
+	margin-left: 100px;
+}
+
+a{
+	color: black;
+}

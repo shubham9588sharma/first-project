@@ -1,0 +1,40 @@
+
+body{
+	font-family: arial;
+}
+
+.div1{
+		height: 505px;
+		font-size: 20px;
+		text-align: center;
+		background-color:lightblue;
+		color: white;
+		width: 1366px;
+
+
+}
+
+#tdwidth{
+	color: black;
+}
+
+
+
+input{
+	width: 200px;
+	height: 20px;
+	border: none;
+}
+
+p{
+	color: black;
+	font-size: 25px;
+	color: #aed350;
+	font-family: fantasy;
+}
+
+select{
+	width: 200px;
+	border: none;
+}
+

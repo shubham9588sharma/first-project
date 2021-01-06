@@ -1,0 +1,50 @@
+
+* {
+	margin: 0px;
+	font-family: arial;
+}
+.box{
+	background-image: url(..//img//shubham1.jpg);
+    background-size: cover;
+    border-radius: 20px;
+	height: 600px;
+	width: 100%;
+}
+
+td{
+	width: 100px;
+	text-align: center;
+	height: 100px;
+}
+
+a{
+	color: white;
+	font-family: arial;
+}
+
+img{
+	width: 200px;
+}
+
+span{
+	font-size: 20px;
+	color: white;
+}
+
+#box1{
+	height: 150px; 
+	margin-left: 60px;
+	font-family: cursive;
+	color:#474747;
+}
+
+#box3{
+	width: 300px;
+	display: inline-block;
+	margin:10px;
+	height: 150px;
+	text-align: center;
+	font-size: 15px;
+	font-family:Georgia;
+	color: #474747;
+}

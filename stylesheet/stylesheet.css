@@ -1,0 +1,61 @@
+
+body{
+
+    background-image: url(..//img//shubham.jpg);
+    background-size: cover;
+
+    
+
+}
+
+/*.div{
+    height: 250px;
+    text-align: center;
+    background-color: rgba(100, 150, 200, 0.4 );
+    border: 10px dotted;
+    border-color: white;
+}*/
+
+
+.demo{
+   width: 50%;
+   border:10px  transparent;
+   border-top:10px solid  skyblue;
+   border-right:20px dotted  skyblue;
+   border-left:20px dotted  skyblue;
+   text-align: center;
+   border-bottom: none;
+}
+
+.demo1{
+   width: 50%;
+   border:10px  transparent;
+   border-top:10px solid  black;
+   border-right:20px dotted  black;
+   border-left:20px dotted  black;
+   text-align: center;
+   border-bottom: none;
+}
+
+.demo2{
+         width: 50;
+         border:20px solid transparent;
+         border-top:20px solid  blue;
+         border-bottom:20px solid skyblue;
+         margin-left: 50%;
+         background-image: url(..//img//shubham.jpg);
+}
+
+input{
+    width: 250px;
+    height: 50px;
+    border: solid red;
+    background:transparent;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin-left: 50px;
+
+
+
+}

@@ -1,0 +1,61 @@
+body{
+	text-align: center;
+	background-color: #fcba03;
+	color: black;
+	font-weight: bold;
+}
+.demo{
+
+	height: 400px;
+	background-color: #f27827;
+	width: 30%;
+	border-radius: 100px;
+	margin-top: -20px;
+	margin-left:-10px;
+
+
+}
+
+.demo2{
+	border: solid;
+	width: 60%;
+	margin-left: 210px;
+	margin-top: -22%;
+	height: 100px;
+	border:none;
+}
+
+.demoinput{
+	background-color: lightgray;
+	border: none;
+	height: 25px;
+	width: 50%;
+	text-align: center;
+	color: gray;
+	border-radius:50px;
+}
+
+input{
+	border: none;
+	border-bottom: 1px solid;
+}
+
+select{
+	border: none;
+	border-bottom: 1px solid;
+}
+
+button{
+	background-color: orange;
+	color: white;
+	 margin-right: -430px;
+	 font-size: 15px;
+	 font-weight: bold;
+	 font-family:arial;
+	 border-radius: 10px;
+}
+
+div{
+	background-color: white;
+
+}
